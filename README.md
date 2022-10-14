@@ -1,2 +1,31 @@
-# Learn..github.io
-Learn provides engineering students with access to online calculators, notes, and assignments.
+# <a href="https://red-smoke-098dbf410.2.azurestaticapps.net">Learn. </a>
+
+
+Web Technologies used: HTML, CSS, JS, SCSS
+
+IDE: VS-Code
+
+Note: Bot is deployed on Course page.
+
+### Industry :
+Education
+
+
+### Project Title :
+Learn. [Information Resourse Center]
+
+
+### Problem Statement/Opportunity :
+The Learn website solves the problem of engineering students by providing notes and assignments for all first-year streams
+
+### Project Description :
+Learn provides engineering students with access to online calculators, notes, and assignments. By providing first-year engineering notes and assignments, Learn solves the problem for engineering students. Learn was developed to solve the problems of study material when everything was online due to global pandemic. We are using Azure Technologies with GitHub to complete this project.
+
+
+### Primary Azure Technology :
+Azure Bot Service, QnA Maker, Static Web Apps
+
+
+Other Azure Technologies :
+App Service
+
