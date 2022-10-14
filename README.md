@@ -5,7 +5,7 @@ Web Technologies used: HTML, CSS, JS, SCSS
 
 IDE: VS-Code
 
-Note: Bot is deployed on Course page.
+Note: The Bot is deployed on Course page.
 
 ### Industry :
 Education
@@ -19,7 +19,7 @@ Learn. [Information Resourse Center]
 The Learn website solves the problem of engineering students by providing notes and assignments for all first-year streams
 
 ### Project Description :
-Learn provides engineering students with access to online calculators, notes, and assignments. By providing first-year engineering notes and assignments, Learn solves the problem for engineering students. Learn was developed to solve the problems of study material when everything was online due to global pandemic. We are using Azure Technologies with GitHub to complete this project.
+Learn provides engineering students access to online calculators, notes, and assignments. By providing first-year engineering notes and assignments, Learn solves the problem for engineering students. Learn was developed to solve the issues of study material when everything was online due to the global pandemic. We are using Azure Technologies with GitHub to complete this project.
 
 
 ### Primary Azure Technology :
